@@ -1,3 +1,8 @@
 .cat img {
     margin-left: 1.5em;
 }
+
+.copy {
+    color: aquamarine;
+    font-weight: 800;
+}
